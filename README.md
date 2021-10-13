@@ -1,6 +1,6 @@
 # Reinforcement Learned Multi-agent Collision Avoidance
 
-University of Sheffield Aerospace Engineering MEng Final Year Project
+University of Sheffield Aerospace Engineering MEng Final Year Project (2019)
 
-Author: Dale Collison, collisonda@gmail.com
+Author: Dale Collison, dale.a.collison@gmail.com
 
